@@ -1,0 +1,16 @@
+GamePadTest
+LStickVt	LeftStick Verticle	3	SLIDER	Y Axis	0	1.0	0.0
+LStickHz	LStick Hz	3	SLIDER	X Axis	0	1.0	0.0
+RStickVt	Right Stick Vt	3	SLIDER	Y Rotation	0	1.0	0.0
+RStickHz	Right Stick HZ	3	SLIDER	X Rotation	0	1.0	0.0
+Triggers	R2 + L2	3	SLIDER	Z Axis	0	1.0	0.0
+A	A	1	BUTTON	Button 0	0	0.0	0.0
+B	B	1	BUTTON	Button 1	0	0.0	0.0
+X	X	1	BUTTON	Button 2	0	0.0	0.0
+Y	Y	1	BUTTON	Button 3	0	0.0	0.0
+LBumper	LBumoer	1	BUTTON	Button 4	0	0.0	0.0
+RBumper	RBumper	1	BUTTON	Button 5	0	0.0	0.0
+Back	Back	1	BUTTON	Button 6	0	0.0	0.0
+Start	Start	1	BUTTON	Button 7	0	0.0	0.0
+L3	L3	1	BUTTON	Button 8	0	0.0	0.0
+R3	R3	1	BUTTON	Button 9	0	0.0	0.0
